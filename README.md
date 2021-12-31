@@ -12,7 +12,6 @@
 
 - 개발기간 : 2021/11/15~2021/11/26
 - 개발 인원 : 프론트엔드 4명, 백엔드 2명
-- 팀원 : 김봉철, 유병문, 설혜린, 이수경, 장세영, 정지후
 
 ### 프로젝트 선정이유
 
@@ -25,7 +24,6 @@
 ### 적용 기술 및 협업 툴
 
 > - Front-End : JavaScript, React.js, sass, React-router-dom, React-icons
-> - Back-End : Django, Python, MySQL, jwt, AWS(EC2, RDS)
 > - Common : Git, Github, Slack, Trello
 
 ### 구현 기능
